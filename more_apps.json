@@ -1,0 +1,24 @@
+[
+  {
+    "name": "支票易 ChequeEasy Exchange",
+    "subtitle": "快速換算 · 匯率工具",
+    "iosAppId": "6746353372",
+    "androidPackage": "com.thethings.chequeeasy",
+    "iosUrlOverride": "https://apps.apple.com/app/id6746353372?ct=crosspromo_settings",
+    "playUrlOverride": "https://play.google.com/store/apps/details?id=com.thethings.chequeeasy&referrer=utm_source%3Dsettings%26utm_medium%3Dcrosspromo%26utm_campaign%3Dmore_apps"
+  },
+  {
+    "name": "AiMark6 - 六合彩Ai選號",
+    "subtitle": "香港攪珠資訊工具",
+    "iosAppId": "6747115591",
+    "androidPackage": "com.loulouwong.mark6ai",
+    "iosUrlOverride": "https://apps.apple.com/app/id6747115591?ct=crosspromo_settings",
+    "playUrlOverride": "https://play.google.com/store/apps/details?id=com.loulouwong.mark6ai&referrer=utm_source%3Dsettings%26utm_medium%3Dcrosspromo%26utm_campaign%3Dmore_apps"
+  },
+  {
+    "name": "TriEasy Photo Editor",
+    "subtitle": "AI 去背與拼貼",
+    "iosAppId": "6747077957",
+    "iosUrlOverride": "https://apps.apple.com/app/id6747077957?ct=crosspromo_settings"
+  }
+]
